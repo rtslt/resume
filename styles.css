@@ -23,6 +23,21 @@ li {
     margin-bottom: 10px;
 }
 
+
 p {
     margin-bottom: 15px;
+}
+
+.job-title {
+    text-decoration: underline;
+}
+
+.projects {
+    /* color: red; */
+    font-style: italic;
+    /* font-weight : bold; */
+}
+.project-description {
+    margin-left: 1rem;
+    margin-bottom: 5px;
 }
